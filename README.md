@@ -3,13 +3,13 @@
 This is an old [Google Code](https://code.google.com/archive/p/mpc2mp3/) project of mine.
 Yes, took me four years to put it on Github, but hey, do mpc files still exist?
 
-## What is
+## What it does
 
 Converts mpc music files into mp3 format.
 
 ## Prehequisites
 
-Prerequisites: Bash (POSIX), mpcdec, lame
+Bash (POSIX), mpcdec, lame
 
 ## Author
 
